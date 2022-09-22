@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Light-2001
-- 👀 I’m interested in ...Machine learning
-- 🌱 I’m currently learning ...C++, DSA, DIP
+- 👀 I’m interested in ...Machine learning, Business Analysis
+- 🌱 I’m currently learning ...C++,DSA,Python,R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ritesh01rp @instagram
 
